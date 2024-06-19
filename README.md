@@ -18,7 +18,7 @@ The code has been tested with the following setup.
 - CUDA 12.1
 
 ```bash
-conda env create --name doge --file=environment.yml
+conda env create --name doge --file=environment.yaml
 ```
 
 ## Data Preparation
